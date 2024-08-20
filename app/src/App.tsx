@@ -227,6 +227,7 @@ export const App = () => {
 						</tbody>
 					</table>
 				</div>
+				<a href="https://docs.google.com/document/d/15lIaxQ90XkV5wLox0bPYpUI3eItVExWf/edit?usp=sharing&ouid=108740212006249286457&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer"><h5>Necesitas ayuda ?</h5></a>
 			</div>
 		</>
 	)
